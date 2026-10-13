@@ -4,7 +4,7 @@ A complete, production-grade, modular CLI-based **Train Management System** buil
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 d:/train management system/
@@ -30,7 +30,7 @@ d:/train management system/
 
 ---
 
-## 🔑 Pre-Seeded Accounts
+##  Pre-Seeded Accounts
 
 | Role | Username | Password | Notes |
 | :--- | :--- | :--- | :--- |
@@ -42,7 +42,7 @@ d:/train management system/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Run the Interactive CLI Application
 ```powershell
@@ -61,7 +61,7 @@ python seed_data.py
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 ### 1. Role-Based Portals & Authentication
 - **PBKDF2-HMAC-SHA256 Cryptographic Hashing**: Secure password storage with unique per-user salts.
